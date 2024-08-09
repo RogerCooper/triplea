@@ -2349,7 +2349,7 @@
 - mapName: Great Lakes War
   mapCategory: EXPERIMENTAL
   url: https://github.com/triplea-maps/greatlakeswar/archive/master.zip
-  version: 1
+  version: 2
   img: https://raw.githubusercontent.com/triplea-maps/greatlakeswar/master/preview.png
   description: |
     <br>Conflict around the North American Great Lakes, with both free-for-all and alliance scenarios
